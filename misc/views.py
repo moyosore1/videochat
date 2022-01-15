@@ -9,3 +9,6 @@ def home(request):
 
 def room(request):
     return render(request, 'misc/room.html')
+
+def wait(request):
+    return render(request, 'misc/waitarea.html')
