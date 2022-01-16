@@ -45,3 +45,9 @@ body {
   min-height: 350px;
   
 }
+
+
+.video-stream{
+  height: 100%;
+  width: 100%;
+}
